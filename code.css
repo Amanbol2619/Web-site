@@ -1,0 +1,37 @@
+body{
+  text-align: center;
+  margin:0;
+  padding:0;
+
+}
+.conteiner{
+  height: 100px;
+  background: #7BAE32;
+  width: 100%;
+  position: fixed;
+  font-size: 1.5em;
+  color: #fff;
+  z-index: 10;
+
+}
+.banner{
+  background: yellow;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 1000px;
+  position: relative;
+  top: 100px;
+
+} 
+.content{
+  height: 2500px;
+  width: 100%;
+  background: #999999;
+  position: relative;
+  font-size: 50px;
+  top: 100px;
+  padding: 20px;
+  font-family: arial;
+}
