@@ -38,12 +38,10 @@ margin:0;
     font-size: 20px;
     font-family: 'Source Sans Pro', sans-serif;
     word-spacing: 10px;
-     column-count: 2S;
+     column-count: 3;
   column-gap: 100px;
   
-  column-width: 150px;
-  column-fill: balance;
-  height: 550px;
+
 
 
   }
@@ -51,3 +49,4 @@ margin:0;
  nav{
   prop
  }
+
