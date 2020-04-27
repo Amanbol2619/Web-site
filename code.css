@@ -1,65 +1,66 @@
-body{
+
+
+
+
+
+@media screen and (min-width: 480px) {
+  body {
+    background-color: #DDC4F6;
+     margin:0;
+  }
+
   
-margin:0;
   
 }
 .container{
-  height: 80px;
-  background: #A093A3;
+
+
+  height: 60px;
+  background: #CEDDE2;
   width: 100%;
   position: fixed;
   font-size: 15px;
   color: #fff;
   z-index: 10;
   letter-spacing: 1px;
-  text-decoration-line: none;
+  text-decoration-line: unset;
  }
  
   .banner{
 
-    background: url();
-  margin: 0;
+    background: url(amu.svg);
+  margin: 5;
+  padding: 10px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  width: 100%;
+  width: 150%;
   height: 1000px;
   position: relative;
   top: 10px;
+
   
 
 }
   .content{
-    position: bottom;
+    
     height: 500px;
     width: 100%;
-    background: #999999;
-    position: relative;
-    font-size: 40px;
+    background-color:#DDC4F6;
+    
+    
     top: 1px;
-    padding: 50px;
+    padding: 40px;
     font-size: 20px;
     font-family: 'Source Sans Pro', sans-serif;
     word-spacing: 10px;
-     column-count: 3;
-  column-gap: 20px;
+     column-count: 2;
+  column-gap: 10px;
   
 
 
 
   }
-  @media screen and (min-width: 480px) {
-  body {
-    background-color: lightgreen;
-  }
-}
+  
  
- nav, th{
-  text-align: left;
-  border: 2px;
  
- }
-img{
-  width:100%;
-  position: bottom;
-}
