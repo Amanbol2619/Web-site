@@ -1,8 +1,6 @@
 
 
 
-
-
 @media screen and (min-width: 480px) {
   body {
     background-color: #DDC4F6;
@@ -28,7 +26,7 @@
  
   .banner{
 
-    background: url(amu.svg);
+    background: url(https://upload.wikimedia.org/wikipedia/commons/f/f9/Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg);
   margin: 5;
   padding: 10px;
   background-size: cover;
